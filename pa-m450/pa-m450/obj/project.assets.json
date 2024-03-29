@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\pa-m450\\pa-m450\\pa-m450.csproj",
-      "projectName": "pa-m450",
-      "projectPath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\pa-m450\\pa-m450\\pa-m450.csproj",
+      "projectUniqueName": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\PA-M450.csproj",
+      "projectName": "PA-M450",
+      "projectPath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\PA-M450.csproj",
       "packagesPath": "C:\\Users\\Ilia Kalygin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\pa-m450\\pa-m450\\obj\\",
+      "outputPath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ilia Kalygin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
