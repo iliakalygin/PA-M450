@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyuiZAhXLLCKRIt+NRN5ITz1DHXoMpQW7mj9O26v7w6sg3Twl5+0aGISh42KPuokR6ATNYYOhqV3FVSSoeLiqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\PA-M450.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilia Kalygin\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ilia Kalygin\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Ilia Kalygin\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
