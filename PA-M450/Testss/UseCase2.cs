@@ -16,12 +16,10 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            // Nehmen wir an, das Fahrzeug hat bereits 5 Behälter geladen
             for (int i = 0; i < 5; i++)
             {
                 vehicle.AssignOrder(new TransportOrderMock { Containers = new List<ITransportContainer> { new TransportContainerMock() } });
             }
-            // Überprüfen, ob das Fahrzeug weitere 5 Behälter aufnehmen kann
             int additionalContainers = 5;
 
             // Act
@@ -37,7 +35,6 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            // Füllen Sie die Kapazität vollständig
             for (int i = 0; i < 10; i++)
             {
                 vehicle.AssignOrder(new TransportOrderMock { Containers = new List<ITransportContainer> { new TransportContainerMock() } });
@@ -56,12 +53,11 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            // Nehmen wir an, das Fahrzeug hat bereits 8 Behälter geladen
             for (int i = 0; i < 8; i++)
             {
                 vehicle.AssignOrder(new TransportOrderMock { Containers = new List<ITransportContainer> { new TransportContainerMock() } });
             }
-            int additionalContainers = 3; // Versuch, drei weitere Behälter hinzuzufügen, was die Kapazität überschreiten würde
+            int additionalContainers = 3; // Versuch, 3 weitere Behälter hinzuzufügen, was die Kapazität überschreiten würde
 
             // Act
             bool result = vehicle.CanAcceptOrder(additionalContainers);

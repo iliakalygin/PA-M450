@@ -31,7 +31,7 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            var originalLocation = vehicle.CurrentLocation; // StartLocation
+            var originalLocation = vehicle.CurrentLocation;
             var sameLocation = "StartLocation";
 
             // Act
@@ -47,7 +47,7 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            var invalidLocation = ""; // Angenommen, eine leere Zeichenkette ist eine ungültige Location
+            var invalidLocation = "";
 
             // Act & Assert
             Assert.Throws<ArgumentException>(() => vehicle.MoveTo(invalidLocation), "Das Fahrzeug sollte eine Ausnahme werfen, wenn eine ungültige Location angegeben wird.");

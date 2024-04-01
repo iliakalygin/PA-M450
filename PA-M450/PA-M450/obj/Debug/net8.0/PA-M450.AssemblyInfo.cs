@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PA-M450")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9940f2cd479a4e4e221898afd18e8571bc67eebf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a036146cec615af2fe0361bc31d350208cb32794")]
 [assembly: System.Reflection.AssemblyProductAttribute("PA-M450")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PA-M450")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

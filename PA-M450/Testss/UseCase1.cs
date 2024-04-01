@@ -35,7 +35,7 @@ namespace Testss
             var vehicle = VehicleFactory.GetVehicle("mock");
             var order = new TransportOrderMock
             {
-                Containers = new List<ITransportContainer>(new TransportContainerMock[11]) // 11 Containers, more than capacity
+                Containers = new List<ITransportContainer>(new TransportContainerMock[11])
             };
 
             // Act
@@ -50,7 +50,6 @@ namespace Testss
         {
             // Arrange
             var vehicle = VehicleFactory.GetVehicle("mock");
-            // Add 10 containers to simulate full capacity
             for (int i = 0; i < 10; i++)
             {
                 vehicle.AssignOrder(new TransportOrderMock { Containers = new List<ITransportContainer> { new TransportContainerMock() } });

@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\testss\\usecase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|solutionrelative:testss\\usecase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\testss\\usecase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|solutionrelative:testss\\usecase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\testss\\usercase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|solutionrelative:testss\\usercase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\transportordermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\transportordermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\transportcontainermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\transportcontainermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\autonomousvehiclemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\autonomousvehiclemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\itransportorderdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\itransportorderdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\itransportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\itransportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\autonomousvehiclemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\autonomousvehiclemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\transportcontainermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\transportcontainermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\mocks\\transportordermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\mocks\\transportordermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\iautonomousvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\iautonomousvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\itransportcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\itransportcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\iautonomousvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\iautonomousvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\interfaces\\itransportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|solutionrelative:pa-m450\\interfaces\\itransportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\testss\\usecase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|solutionrelative:testss\\usecase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\testss\\usercase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F6214F-83A4-4C51-8816-495CF6F90330}|Testss\\Testss.csproj|solutionrelative:testss\\usercase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4C3D2B-11B2-4113-8EAC-E01BEDC5F4C5}|PA-M450\\PA-M450.csproj|c:\\users\\ilia kalygin\\documents\\github\\pa-m450\\pa-m450\\pa-m450\\pa-m450.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TransportOrderMock.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Mocks\\TransportOrderMock.cs",
               "RelativeDocumentMoniker": "PA-M450\\Mocks\\TransportOrderMock.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "TransportContainerMock.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Mocks\\TransportContainerMock.cs",
               "RelativeDocumentMoniker": "PA-M450\\Mocks\\TransportContainerMock.cs",
@@ -144,26 +144,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VehicleFactory.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\VehicleFactory.cs",
               "RelativeDocumentMoniker": "PA-M450\\VehicleFactory.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\VehicleFactory.cs",
               "RelativeToolTip": "PA-M450\\VehicleFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:34:10.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "AutonomousVehicleMock.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Mocks\\AutonomousVehicleMock.cs",
               "RelativeDocumentMoniker": "PA-M450\\Mocks\\AutonomousVehicleMock.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Mocks\\AutonomousVehicleMock.cs",
               "RelativeToolTip": "PA-M450\\Mocks\\AutonomousVehicleMock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:33:25.374Z",
               "EditorCaption": ""
@@ -182,20 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ITransportOrderDispatcher.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Interfaces\\ITransportOrderDispatcher.cs",
               "RelativeDocumentMoniker": "PA-M450\\Interfaces\\ITransportOrderDispatcher.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Interfaces\\ITransportOrderDispatcher.cs",
               "RelativeToolTip": "PA-M450\\Interfaces\\ITransportOrderDispatcher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:33:00.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "IAutonomousVehicle.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Interfaces\\IAutonomousVehicle.cs",
               "RelativeDocumentMoniker": "PA-M450\\Interfaces\\IAutonomousVehicle.cs",
@@ -208,13 +208,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UseCase1.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UseCase1.cs",
               "RelativeDocumentMoniker": "Testss\\UseCase1.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UseCase1.cs",
               "RelativeToolTip": "Testss\\UseCase1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwCoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:21:01.275Z",
               "EditorCaption": ""
@@ -246,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "ITransportContainer.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Interfaces\\ITransportContainer.cs",
               "RelativeDocumentMoniker": "PA-M450\\Interfaces\\ITransportContainer.cs",
@@ -259,33 +259,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "UserCase3.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UserCase3.cs",
               "RelativeDocumentMoniker": "Testss\\UserCase3.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UserCase3.cs",
               "RelativeToolTip": "Testss\\UserCase3.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:24:39.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "UseCase2.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UseCase2.cs",
               "RelativeDocumentMoniker": "Testss\\UseCase2.cs",
               "ToolTip": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\Testss\\UseCase2.cs",
               "RelativeToolTip": "Testss\\UseCase2.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwC8AAABHAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T18:22:09.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ilia Kalygin\\Documents\\GitHub\\PA-M450\\PA-M450\\PA-M450\\Program.cs",
               "RelativeDocumentMoniker": "PA-M450\\Program.cs",
